@@ -10,6 +10,10 @@ This is a simple Python-based Rock Paper Scissors game where the user plays agai
 ### 2. Hangman Game
 This is a simple Python-based Hangman game where the user guesses letters to find a hidden word. The program randomly selects a word, tracks the user’s lives, and displays hangman stages based on wrong guesses.
 
+### 3. Password Generator
+This is a simple Python-based Password Generator program.  
+The user can choose the number of letters, special characters, and numbers to include in the password.  
+The program randomly generates and shuffles the characters to create a secure password.
 ## Technologies Used
 
 - Python
