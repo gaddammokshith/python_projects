@@ -14,6 +14,9 @@ This is a simple Python-based Hangman game where the user guesses letters to fin
 This is a simple Python-based Password Generator program.  
 The user can choose the number of letters, special characters, and numbers to include in the password.  
 The program randomly generates and shuffles the characters to create a secure password.
+
+### 4. Caesar cipher
+This project implements a simple Caesar cipher in Python. It allows users to encrypt or decrypt words by shifting letters through the alphabet using a numeric key. The program preserves uppercase letters, ignores spaces/punctuation, and uses modular arithmetic to wrap around the alphabet. Users can choose between encryption and decryption via a menu-driven interface.
 ## Technologies Used
 
 - Python
