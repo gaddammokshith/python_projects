@@ -18,10 +18,17 @@ The program randomly generates and shuffles the characters to create a secure pa
 ### 4. Caesar cipher
 This project implements a simple Caesar cipher in Python. It allows users to encrypt or decrypt words by shifting letters through the alphabet using a numeric key. The program preserves uppercase letters, ignores spaces/punctuation, and uses modular arithmetic to wrap around the alphabet. Users can choose between encryption and decryption via a menu-driven interface.
 
-### 5. silent auction
+### 5. Silent auction
 A simple Python program that simulates a silent auction.
 It collects bids from multiple participants, clears the screen after each entry, and determines the highest bidder.
 The program uses a dictionary to store bids and announces the winner with their bid amount
+
+### 6. Guess a Number
+A simple Python "Guess a Number" game.  
+Players choose a difficulty level (easy or hard) and try to guess a random number between 1–50.  
+The game provides hints (too high/too low) and limits the number of attempts based on difficulty.  
+Fun, interactive, and beginner‑friendly project to practice loops and conditionals!
+
 ## Technologies Used
 
 - Python
